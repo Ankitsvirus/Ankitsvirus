@@ -1,4 +1,4 @@
-### Hello World, I'm Saurabh  👋
+### Hello World, I'm Ankit  👋
  <img align="right" alt="GIF" src="https://github.com/sdvirus/sdvirus/blob/main/coder.gif?raw=true" width="500" height="350" />
 ## I'm a Developer|programmer|Learner, !!
 - ✍ You can find my projects here [portfolio]
@@ -12,7 +12,7 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
+<!-- [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][youtube]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][youtube]
@@ -51,3 +51,4 @@
 [instagram]: https://www.instagram.com/the.saurabh.dubey
 [linkedin]: https://www.linkedin.com/in/saurabhvkd/
 [portfolio]: 
+ -->
