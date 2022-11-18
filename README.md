@@ -1,4 +1,4 @@
-### Hello World, I'm Saurabh  👋
+### Hello World, I'm Ankit 👋
 
  <img align="right" alt="GIF" src="https://github.com/sdvirus/sdvirus/blob/main/coder.gif?raw=true" width="500" height="350" />
 
@@ -55,8 +55,8 @@
 
 </details>
 
-[website]: www.digiAppear.com
-[youtube]: 
-[instagram]: https://www.instagram.com/the.saurabh.dubey
-[linkedin]: https://www.linkedin.com/in/saurabhvkd/
+
+[Facebook]: https://www.facebook.com/Ankit7991430269
+[instagram]: https://www.instagram.com/smartankit7/
+[linkedin]: https://www.linkedin.com/in/ankit-shukla-b38245235/
 [portfolio]: 
